@@ -26,7 +26,8 @@ public class Student2 {
 	}
 	
 	public static void main(String[] args) {
-		new Student2(1);	
+		new Student2(1);
+		System.out.println("Hi");
 		
 		
 	}
